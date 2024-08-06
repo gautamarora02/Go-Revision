@@ -14,4 +14,6 @@ func main() {
 	check[0] = 1 // access and update value
 
 	fmt.Println(len(check)) // length function
+
+	fmt.Println(check) // initial values check
 }
